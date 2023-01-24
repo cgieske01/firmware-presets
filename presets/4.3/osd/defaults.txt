@@ -1,9 +1,9 @@
-#$ TITLE: JB OSD Presets
+#$ TITLE: CGi OSD Presets
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: OSD
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: 
-#$ AUTHOR: Joshua Bardwell
+#$ AUTHOR: Colin Gieske
 #$ DESCRIPTION: CG's OSD presets. Must select NTSC, PAL, HDZero/Walksnail, DJI WTFOS, or DJI Standard, depending on which system you have. 
 #$ DESCRIPTION: DJI WTFOS refers to if you have rooted the air unit and goggles and installed the WTFOS msp-osd plugin to get full Betaflight OSD on DJI goggles. 
 #$ DESCRIPTION: DJI Standard refers to if you are using the built-in MSP OSD on the DJI FPV goggles v2. 
